@@ -13,3 +13,5 @@ logging:
 
 
 billingServiceURL: http://billing-service
+
+billingQueueName: billing-queue
